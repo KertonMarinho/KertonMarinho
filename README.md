@@ -20,7 +20,7 @@
   height: 60px,
   cursor: pointer,
   background: transparent,
-  border: 1px solid #91C9FF,
+  border: 1px solid #00ff00,
   outline: none,
   transition: 1s ease-in-out">
         <svg style="position: absolute,
