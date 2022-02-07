@@ -27,7 +27,7 @@
   left: 0,
   top: 0,
   fill: none,
-  stroke: #fff,
+  stroke: #333,
   stroke-dasharray: 150 480,
   stroke-dashoffset: 150,
   transition: 1s ease-in-out" width="180px" height="60px" viewBox="0 0 180 60" class="border">
