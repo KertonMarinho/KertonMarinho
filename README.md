@@ -15,7 +15,7 @@
 
 
 
-| Validador de Cadastro | Reproduzindo Awax |Pega o Rato |
+| Reproduzindo Starbucks | Bateria Eletrônica |Jogo da Velha |
 |------------|------------|------------|
 |<a href="https://github.com/KertonMarinho/Reproduzindo-Starbucks"><img  width="350" alt="🦑" src="https://github.com/KertonMarinho/Reproduzindo-Starbucks/blob/main/assets/images/screenshorts.png"> </a> |<a href="https://github.com/KertonMarinho/Bateria-Eletronica"><img  width="350" alt="🦑" src="https://github.com/KertonMarinho/Bateria-Eletronica/blob/main/screenshort.png"> </a>|<a href="https://github.com/KertonMarinho/Jogo-da-velha"><img  width="350" alt="🦑" src="https://github.com/KertonMarinho/Jogo-da-velha/blob/main/screenshort.png"> </a>
 
