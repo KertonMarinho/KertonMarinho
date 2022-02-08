@@ -1,11 +1,11 @@
 
 <p><h1>Portífolio</h1></p>
 
-| Validador de Cadastro |
-|------------|
-|<a href="https://github.com/KertonMarinho/validador-de-cadastro"><img  width="350" alt="🦑" src="https://github.com/KertonMarinho/validador-de-cadastro/blob/main/screen.png"> </a>| Repruduzindo Awax |
-|------------|
-|<a href="https://github.com/KertonMarinho/Recriando-Awax"><img  width="350" alt="🦑" src="https://github.com/KertonMarinho/Recriando-Awax/blob/main/assets/images/screenshorts.png"> </a>
+| Validador de Cadastro | Repruduzindo Awax |
+|------------|------------|
+|<a href="https://github.com/KertonMarinho/validador-de-cadastro"><img  width="350" alt="🦑" src="https://github.com/KertonMarinho/validador-de-cadastro/blob/main/screen.png"> </a> ||<a href="https://github.com/KertonMarinho/Recriando-Awax"><img  width="350" alt="🦑" src="https://github.com/KertonMarinho/Recriando-Awax/blob/main/assets/images/screenshorts.png"> </a>
+
+
  
 
 | Button Glass |
