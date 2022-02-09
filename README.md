@@ -12,7 +12,7 @@
 <h1>Base de conhecimentos 📚</h1>
 <img align='right' height=200 src="">
 <ul>
-  <li>:c:C</li>
+  <li>:large_blue_circle:C</li>
   <li>🐍 Python</li>
   <li>⚡ Javascript</li>
   <li>:five:HTML</li>
