@@ -9,14 +9,14 @@
     
     
     
-    <h1 align='center'>Base de conhecimentos 📚</h1>
+<h1>Base de conhecimentos 📚</h1>
 <img align='right' height=200 src="">
 <ul>
   <li> :C:C</li>
   <li>🐍 Python</li>
   <li>⚡ Javascript</li>
   <li>:five:HTML</li>
-  <li> :CSS:CSS </li>
+  <li>:CSS:CSS </li>
 </ul>
 
 
