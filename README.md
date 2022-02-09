@@ -2,7 +2,15 @@
 
 
 
-
+<h1 align='center'>Entre em contato 📨</h1>
+<div align='center'>
+    <!-- <a href="#" target="_blank"><img src="" target="_blank"/></a> -->
+    <a href="https://www.linkedin.com/in/kerton-marinho-776aba208/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+<br>
+ 
+ 
+ 
 <p><h1>Portífolio</h1></p>
 
 | Validador de Cadastro | Reproduzindo Awax:heavy_check_mark: |Pega o Rato:heavy_check_mark: |
