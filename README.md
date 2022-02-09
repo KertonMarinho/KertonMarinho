@@ -1,7 +1,7 @@
 
 <p><h1>Portífolio</h1></p>
 
-| Validador de Cadastro | Reproduzindo Awax |Pega o Rato |
+| Validador de Cadastro | Reproduzindo Awax:heavy_check_mark: |Pega o Rato |
 |------------|------------|------------|
 |<a href="https://github.com/KertonMarinho/validador-de-cadastro"><img  width="350" alt="🦑" src="https://github.com/KertonMarinho/validador-de-cadastro/blob/main/screen.png"> </a> |<a href="https://github.com/KertonMarinho/Recriando-Awax"><img  width="350" alt="🦑" src="https://github.com/KertonMarinho/Recriando-Awax/blob/main/assets/images/screenshorts.png"> </a>|<a href="https://github.com/KertonMarinho/Pega-Rato"><img  width="350" alt="🦑" src="https://github.com/KertonMarinho/Pega-Rato/blob/main/assets/screeshorts.png"> </a>
 
