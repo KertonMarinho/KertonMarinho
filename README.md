@@ -5,7 +5,19 @@
 <div>
 <h1 align='center'>Sobre mim 💬</h1>
 <img align='right' height=150 src="" alt="">
-    <p>EM breve</p>
+    <p>Em breve</p>
+    
+    
+    
+    <h1 align='center'>Base de conhecimentos 📚</h1>
+<img align='right' height=200 src="">
+<ul>
+  <li> :C:C</li>
+  <li>🐍 Python</li>
+  <li>⚡ Javascript</li>
+  <li>:five:HTML</li>
+  <li> :CSS:CSS </li>
+</ul>
 
 
 
