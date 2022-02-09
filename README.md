@@ -2,6 +2,16 @@
 
 
 
+<div>
+<h1 align='center'>Sobre mim 💬</h1>
+<img align='right' height=150 src="" alt="">
+    <p>EM breve</p>
+
+
+
+
+
+
 <h1>Entre em contato 📨</h1>
 <div>
     <!-- <a href="#" target="_blank"><img src="" target="_blank"/></a> -->
