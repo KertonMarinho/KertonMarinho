@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2311F766&duration=4000&multiline=true&height=80&lines=KertonMarinho%40127.0.0.1;console.log(Welcome!!!);Welcome!!!)](https://git.io/typing-svg)
+
+
+
 
 <p><h1>Portífolio</h1></p>
 
