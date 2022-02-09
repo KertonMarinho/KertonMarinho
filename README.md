@@ -16,7 +16,7 @@
   <li>🐍 Python</li>
   <li>⚡ Javascript</li>
   <li>:five:HTML</li>
-  <li>:css:CSS </li>
+  <li>:three:CSS </li>
 </ul>
 
 
