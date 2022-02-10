@@ -18,14 +18,14 @@
     
 <h1>Base de conhecimentos 📚</h1>
 <img align='right' height=200 >
-<ul>
+/*<ul>
   <li>:large_blue_circle:C</li>
   <li>🐍 Python</li>
   <li>⚡ Javascript</li>
   <li>:five:HTML</li>
   <li>:three:CSS </li>
     <li>:red_circle:Typescript </li>
-</ul>
+</ul>*/
 
 
 
