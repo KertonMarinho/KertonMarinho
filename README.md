@@ -7,6 +7,7 @@
 <img align='right' height=150 src="https://immediatesafety.org/wp-content/uploads/aliens.gif" alt="">
     
     
+    
 <p>Estudante curso superior em Rede de Computadores</p>
 <p>Estudante B7web</p>
     
@@ -16,7 +17,7 @@
     
     
 <h1>Base de conhecimentos 📚</h1>
-<img align='right' height=200 src="">
+<img align='right' height=200 >
 <ul>
   <li>:large_blue_circle:C</li>
   <li>🐍 Python</li>
