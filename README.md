@@ -11,19 +11,10 @@
 <p>Estudante curso superior em Rede de Computadores</p>
 <p>Estudante B7web</p>
     
-    
-    
-    
-    
-    
 <h1>Base de conhecimentos 📚</h1>
 <img align='right' height=200 >
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23040C10&duration=1000&multiline=true&height=220&lines=Javascript;Typescript;Html;Css;Python;Git;C;node(estudando))](https://git.io/typing-svg)
-
-
-
-
 
 
 <h1>Entre em contato 📨</h1>
