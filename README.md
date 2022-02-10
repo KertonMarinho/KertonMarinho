@@ -17,6 +17,7 @@
   <li>⚡ Javascript</li>
   <li>:five:HTML</li>
   <li>:three:CSS </li>
+    <li>:red_circle:Typescript </li>
 </ul>
 
 
