@@ -5,7 +5,8 @@
 <div>
 <h1>Sobre mim 💬</h1>
 <img align='right' height=150 src="" alt="">
-    <p>Em breve</p>
+    <p>Estudante curso superior em Rede de Computadores</p>
+    <p>Estudante B7web</p>
     
     
     
