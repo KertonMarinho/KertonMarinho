@@ -3,7 +3,7 @@
 
 
 <div>
-<h1 align='center'>Sobre mim 💬</h1>
+<h1>Sobre mim 💬</h1>
 <img align='right' height=150 src="" alt="">
     <p>Em breve</p>
     
