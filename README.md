@@ -7,8 +7,8 @@
 <img align='right' height=150 src="https://immediatesafety.org/wp-content/uploads/aliens.gif" alt="">
     
     
-    <p>Estudante curso superior em Rede de Computadores</p>
-    <p>Estudante B7web</p>
+<p>Estudante curso superior em Rede de Computadores</p>
+<p>Estudante B7web</p>
     
     
     
