@@ -45,7 +45,7 @@
 
 | Button Glass | Urna Eletrônica:heavy_check_mark: | App de Clima:heavy_check_mark: |
 |------------|------------|------------|
-|<a href="https://github.com/KertonMarinho/Button-glass"><img  width="350" alt="🦑" src="https://github.com/KertonMarinho/Button-glass/blob/main/images/screenshort.png"> </a>|<a href="https://github.com/KertonMarinho/Urna-eletronica"><img  width="350" alt="🦑" src="https://github.com/KertonMarinho/Urna-eletronica/blob/main/screenshorts.png"> </a>|<a href="https://github.com/KertonMarinho/App-de-Clima"><img  width="350" alt="🦑" src="https://github.com/KertonMarinho/App-de-Clima/blob/main/screenshot.png"> </a>
+|<a href="https://github.com/KertonMarinho/Button-glass"><img  width="350" alt="🦑" src="https://github.com/KertonMarinho/Button-glass/blob/main/images/screenshort.png"> </a>|<a href="https://github.com/KertonMarinho/Urna-eletronica"><img  width="350" alt="🦑" src="https://github.com/KertonMarinho/Urna-eletronica/blob/main/screenshorts.png"> </a>|<a href="https://github.com/KertonMarinho/App-de-Clima"><img  width="350" alt="🦑" src="https://github.com/KertonMarinho/App-de-Clima/blob/main/screenshorts.png"> </a>
 
 
 
