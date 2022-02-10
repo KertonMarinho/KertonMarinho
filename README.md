@@ -4,7 +4,7 @@
 
 <div>
 <h1>Sobre mim 💬</h1>
-<img align='right' height=150 src="" alt="">
+<img align='right' height=150 src="https://i1.wp.com/immediatesafety.org/wp-content/uploads/aliens.gif?fit=1280%2C693&ssl=1" alt="">
     <p>Estudante curso superior em Rede de Computadores</p>
     <p>Estudante B7web</p>
     
