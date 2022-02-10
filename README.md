@@ -18,14 +18,7 @@
     
 <h1>Base de conhecimentos 📚</h1>
 <img align='right' height=200 >
-/*<ul>
-  <li>:large_blue_circle:C</li>
-  <li>🐍 Python</li>
-  <li>⚡ Javascript</li>
-  <li>:five:HTML</li>
-  <li>:three:CSS </li>
-    <li>:red_circle:Typescript </li>
-</ul>*/
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23040C10&duration=1500&multiline=true&height=190&lines=Javascript;Typescript;Html;Css;Python;Git;C;node(estudando))](https://git.io/typing-svg)
 
 
 
