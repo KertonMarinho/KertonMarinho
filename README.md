@@ -4,7 +4,7 @@
 
 <div>
 <h1>Sobre mim 💬</h1>
-<img align='right' height=150 src="https://immediatesafety.org/wp-content/uploads/aliens.gif" alt="">
+<img align='right' height=250 src="https://immediatesafety.org/wp-content/uploads/aliens.gif" alt="">
     
     
     
