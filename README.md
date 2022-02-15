@@ -14,7 +14,7 @@
 <h1>Base de conhecimentos 📚</h1>
 <img align='right' height=200 > 
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23040C10&duration=1000&multiline=true&height=220&lines=Javascript;Typescript;Html;Css;Python;Git;C;node(estudando))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23040C10&duration=1000&multiline=true&height=180&lines=Javascript;Typescript;Html;Css;Python;Git;C;node(estudando))](https://git.io/typing-svg)
 
 <h1>Entre em contato 📨</h1>
 <div>
