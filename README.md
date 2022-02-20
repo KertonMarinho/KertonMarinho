@@ -13,7 +13,7 @@
     
     
 <p>Estudante curso superior em Rede de Computadores</p>
-<p>Estudante B7web</p>
+<p>Estudante de programação da B7web</p>
     
 <h1>Base de conhecimentos 📚</h1>
 <img align='right' height=200/>      
