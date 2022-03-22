@@ -15,8 +15,8 @@
 <img align="center" alt="Aloi-HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Aloi-CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Aloi-Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br>
-    
-
+<img align="center" alt="Alo-GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<img align="center" alt="Alo-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     
 
 
