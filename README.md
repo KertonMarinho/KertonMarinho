@@ -11,9 +11,12 @@
     
 <h1>Base de conhecimentos 📚</h1>
 <img align='right' height=200/>      
+ 
+<img align="center" alt="Aloi-HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Aloi-CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Aloi-Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br>
     
-    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23040C10&duration=1000&multiline=true&height=160&lines=Javascript;Typescript;Html;Css;Python;Git;C;node(estudando))](https://git.io/typing-svg)
+
     
 
 
