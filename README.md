@@ -6,8 +6,8 @@
 <h1>Sobre mim 💬</h1>
 <img align='right' height=250 src="https://immediatesafety.org/wp-content/uploads/aliens.gif" alt="">
     
-<p>Estudante curso superior em Rede de Computadores</p>
-<p>Estudante de programação da B7web</p>
+<p>:ballot_box_with_check: Estudante segundo ano do curso superior em Rede de Computadores</p>
+<p>:ballot_box_with_check: Estudante de programação da B7web</p>
     
 <h1>Base de conhecimentos 📚</h1>
 <img align='right' height=200/>      
