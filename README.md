@@ -28,7 +28,7 @@
 <br>
  <p><h1> Atualmente estou estudando:rocket:</h1></p>
 
-<a target="_blank" </a>
+<img align="center" alt="Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  
  
 <p><h1>Portífolio</h1></p>
