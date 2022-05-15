@@ -26,7 +26,7 @@
     <a href="https://www.linkedin.com/in/kerton-marinho-776aba208/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br>
- ## Atualmente estou estudando :rocket:
+ <p><h1> Atualmente estou estudando </h1></p>:rocket:
 
 <a target="_blank" href="https://github.com/andreluismoreira/Chess-System-JAVA"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> </a>
  
