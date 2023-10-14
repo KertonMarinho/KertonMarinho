@@ -7,7 +7,7 @@
 <img align='right' height=250 src="https://immediatesafety.org/wp-content/uploads/aliens.gif" alt="">
     
 <p>:ballot_box_with_check: Formado em Rede de Computadores</p>
-<p>:ballot_box_with_check: Estudando Analise de sistemas</p>
+<p>:ballot_box_with_check: Estudando Análise de sistemas</p>
 <p>:ballot_box_with_check: Estudante de programação da B7web</p>
 <p>:ballot_box_with_check: Estudante de inglês</p>
     
@@ -19,7 +19,7 @@
 <img align="center" alt="Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 <img align="center" alt="Js" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-          " />
+          
           
 <img align="center" alt="Git" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     
