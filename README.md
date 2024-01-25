@@ -6,6 +6,7 @@
 <h1>Sobre mim 💬</h1>
 <img align='right' height=250 src="https://immediatesafety.org/wp-content/uploads/aliens.gif" alt="">
     
+<p>:ballot_box_with_check: Formado Técnico de Logística</p>
 <p>:ballot_box_with_check: Formado em Rede de Computadores</p>
 <p>:ballot_box_with_check: Estudando Análise de sistemas</p>
 <p>:ballot_box_with_check: Estudante de programação da B7web</p>
