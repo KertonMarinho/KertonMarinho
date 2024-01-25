@@ -21,7 +21,7 @@
 <img align="center" alt="Js" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
           
           
-<img align="center" alt="Git" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img align="center" alt="TP" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
 <img align="center" alt="Git" height="25" width="35" src="https://icons8.com/icon/9MR7wJXKcELM/typescript">
     
