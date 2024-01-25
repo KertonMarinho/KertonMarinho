@@ -23,7 +23,7 @@
           
 <img align="center" alt="TP" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
-<img align="center" alt="TP" height="25" width="35" src="[/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae">](https://icons8.com/icon/Xf1sHBmY73hA/typescript)
+<img align="center" alt="TP" height="25" width="35" src=""https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     
 
 
