@@ -35,7 +35,7 @@
     <a href="https://www.linkedin.com/in/kerton-marinho-776aba208/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br>
- <p><h1> Atualmente estou estudando:rocket:</h1></p>
+ <p><h1> Atualmente estou estudando :rocket:</h1></p>
 <img align="center" alt="Js" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="center" alt="Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="TP" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
