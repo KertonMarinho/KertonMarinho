@@ -23,8 +23,10 @@
           
 <img align="center" alt="TP" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
-<img align="center" alt="TP" height="25" width="35" src=""https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+<img align="center" alt="TP" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
     
+            
+          
 
 
 <h1>Entre em contato 📨</h1>
