@@ -22,6 +22,8 @@
           
           
 <img align="center" alt="Git" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
+<img align="center" alt="Git" height="25" width="35" src="https://icons8.com/icon/9MR7wJXKcELM/typescript">
     
 
 
